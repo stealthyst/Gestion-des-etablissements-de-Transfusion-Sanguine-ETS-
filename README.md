@@ -1,5 +1,5 @@
 
-**Projet universitaire : Gestion de Transfusion Sanguine. **
+**Projet universitaire : Gestion de Transfusion Sanguine.**
 
 Ce référentiel contient le code source et la documentation du projet visant à simplifier la gestion des centres de transfusion sanguine, optimisant les processus de don de sang, de stockage et de distribution pour une efficacité maximale.
 
@@ -10,7 +10,7 @@ Ce référentiel contient le code source et la documentation du projet visant à
 
 **Gestion des Stocks :** Surveillance des niveaux de stock de sang et des dates d'expiration.
 
-**Dossiers des Patients : **Tenue des dossiers des patients ayant besoin de transfusions sanguines.
+**Dossiers des Patients :**Tenue des dossiers des patients ayant besoin de transfusions sanguines.
 
 **Planification des Dons :** Programmation de rendez-vous de don et d'événements.
 
