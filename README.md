@@ -10,7 +10,7 @@ Ce référentiel contient le code source et la documentation du projet visant à
 
 **Gestion des Stocks :** Surveillance des niveaux de stock de sang et des dates d'expiration.
 
-**Dossiers des Patients :**Tenue des dossiers des patients ayant besoin de transfusions sanguines.
+**Dossiers des Patients :** Tenue des dossiers des patients ayant besoin de transfusions sanguines.
 
 **Planification des Dons :** Programmation de rendez-vous de don et d'événements.
 
